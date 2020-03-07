@@ -1,2 +1,0 @@
-# ClassComponents
-Created with CodeSandbox
